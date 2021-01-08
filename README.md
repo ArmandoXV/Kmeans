@@ -1,2 +1,2 @@
 # Kmeans
- My own implimantation of K-means algorithm
+ My own implementation of K-means algorithm
